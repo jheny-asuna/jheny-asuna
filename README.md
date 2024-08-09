@@ -25,4 +25,7 @@ Estou aprendendo:
   <a href="https://instagram.com/jheny.ro"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+##
+
+![gif gatinho](https://github.com/user-attachments/assets/d0a55b77-9de6-481c-bc86-cb69f2265dd7)
     
