@@ -1,10 +1,13 @@
 ### Oiie!! Eu sou a Jheny 😊
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/>
-</p>
+<table>
+  <tr>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/></td>
+  </tr>
+</table>
+
 
 
  ##
