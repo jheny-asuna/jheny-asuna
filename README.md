@@ -1,9 +1,10 @@
 ### Oiie!! Eu sou a Jheny 😊
 
-<table border="0">
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/></td>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/></td>
+    <td style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/></td>
   </tr>
 </table>
 
