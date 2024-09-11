@@ -2,8 +2,8 @@
 
 
 <div>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/>
 </div>
 
 
