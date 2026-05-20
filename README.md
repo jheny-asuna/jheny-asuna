@@ -1,24 +1,29 @@
-### Oiie!! Eu sou a Jheny 😊
+### Hiii!! I am Jheny 😊 
+Welcome to my world! 💻🌎
 
+ ##
 
+🌱 Currently Learning:
 <div>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=jheny-asuna&show_icons=true&theme=radical"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheny-asuna&layout=compact&theme=radical"/>
+Tech Stack
+  <div style="display: inline_block">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </a>
+     <img align="right"  alt="gif-gatinho" heigth="120" width="120" src="https://github.com/user-attachments/assets/d0a55b77-9de6-481c-bc86-cb69f2265dd7">
+  </div>
+  <br>
+Tools & Platforms
+  <div style="display: inline_block">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
+  </div>
 </div>
-
 
  ##
 
-Estou aprendendo:
-<div style="display: inline_block">
-  <img align="center" alt="Jheny-HTML5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">        
-  <img align="center" alt="Jheny-CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Jheny-javaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="right"  alt="gif-gatinho" heigth="60" width="60" src="https://github.com/user-attachments/assets/d0a55b77-9de6-481c-bc86-cb69f2265dd7">
-</div>
-
- ##
-
+📫 Contact:
 <div>
   <a href="mailto:jheniffersilvarodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jhenyrodrigues"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
@@ -26,3 +31,11 @@ Estou aprendendo:
 </div>
 
  ##
+
+🐍 Contribution Snake
+<!-- SNAKE COMMIT'S -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
+</picture>
